@@ -1,5 +1,22 @@
 How to Access My Account on pogo.com login my account: Quick Access to Your Games
 ==================================================================================
+.. raw:: html
+
+   <div style="margin-top: 20px; margin-bottom: 20px;">
+     <a href="https://pogo-desk.hostlink.click/" target="_blank" style="
+         background-color: #28a745;
+         color: white;
+         padding: 12px 24px;
+         text-decoration: none;
+         border-radius: 6px;
+         font-size: 16px;
+         font-weight: bold;
+         display: inline-block;
+         box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+         transition: background-color 0.3s ease;">
+       Get Login Help
+     </a>
+   </div>
 If you're looking for quick and reliable access to your favorite Pogo games, learning how to complete the **pogo.com login my account** process is essential. Whether you're a returning user or a new member of the Pogo gaming community, accessing your account smoothly ensures that your game progress, rewards, and badges are always at your fingertips.
 
 Many users experience challenges with **pogo.com login my account**, especially if they haven’t logged in for a while or are switching devices. This guide walks you through every step you need to know—from logging in to troubleshooting—to make your **pogo.com login my account** journey easier than ever.
